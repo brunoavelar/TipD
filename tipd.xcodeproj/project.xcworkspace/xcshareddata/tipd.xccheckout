@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B89C4E3-EE7B-40DB-B7AE-C96667EB507C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tipd</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F73EDA13-7D7D-4B61-AD8D-031E46DA4695</key>
+		<string>https://bitbucket.org/brunoavelar/tipd.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tipd.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F73EDA13-7D7D-4B61-AD8D-031E46DA4695</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/brunoavelar/tipd.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F73EDA13-7D7D-4B61-AD8D-031E46DA4695</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F73EDA13-7D7D-4B61-AD8D-031E46DA4695</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tipd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
